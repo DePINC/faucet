@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "curl",
+        "plog",
+        "cxxopts",
+        "jsoncpp",
+        "asio"
+    ]
+}
